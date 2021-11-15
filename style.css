@@ -1,0 +1,24 @@
+.info-div {
+  margin-left: 20%;
+  width: 60%;
+}
+
+.hide {
+ display: none;
+}
+
+.workshop-title {
+  color: rgb(38, 13, 112);
+}
+
+button {
+  background-color: rgb(104, 61, 100)
+}
+
+.white-text {
+  color: white;
+}
+
+footer {
+  height: 50px;
+}
